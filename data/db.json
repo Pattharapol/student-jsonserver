@@ -1,0 +1,16 @@
+{
+    "students": [
+        {
+            "id": "00001",
+            "name": "John Doe",
+            "age": "19",
+            "faculty": "Faculty of Computer Science"
+        },
+        {
+            "id": "00002",
+            "name": "Marc Overmars",
+            "age": "20",
+            "faculty": "Faculty of Art"
+        }
+    ]
+}
